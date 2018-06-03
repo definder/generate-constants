@@ -2,7 +2,18 @@
   "name": "generate-constant",
   "version": "1.0.0",
   "description": "Function for elegantly setting constants.",
-  "main": "index.js",
+  "keywords": [
+    "constant",
+    "define",
+    "action"
+  ],
+  "files": [
+    "dist/",
+    "lib/",
+    "LICENSE"
+  ],
+  "main": "lib/index.js",
+  "repository": "https://github.com/definder/generate-constants",
   "scripts": {
     "build": "gulp",
     "test": "jest"
