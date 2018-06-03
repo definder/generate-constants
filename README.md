@@ -1,7 +1,7 @@
 # generate-constants
 Function for elegantly setting constants.
 
-##Getting Started
+## Getting Started
 
 ```$xslt
 npm install --save generate-constant
@@ -11,7 +11,7 @@ or
 yarn add generate-constant
 ```
 
-##Examples using
+## Examples using
 
 ```$xslt
 import generateConstant from 'generate-constant';
