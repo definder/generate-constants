@@ -1,0 +1,8 @@
+yarn-error.log
+npm-debug.log
+.idea/
+projects/html/index.ejs
+node_modules/
+.vscode/
+projects/html/index.ejs
+public/
