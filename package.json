@@ -1,6 +1,6 @@
 {
   "name": "generate-constant",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Function for elegantly setting constants.",
   "keywords": [
     "constant",
