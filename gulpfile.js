@@ -75,7 +75,7 @@ gulp.task("min", function (callback) {
 gulp.task('exportLib', () =>
   gulp.src('src/*.js')
     .pipe(babel({
-      presets: ['env']
+      presets: ['env', "stage-0"]
     }))
     .pipe(gulp.dest('lib'))
 )
